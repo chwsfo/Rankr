@@ -1,0 +1,1 @@
+{"head":"<title>Application Name</title>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <link rel=\"icon\" href=\"/favicon.ico\">","body":"","js":"\nTemplate.body.addContent((function() {\n  var view = this;\n  return \"\";\n}));\nMeteor.startup(Template.body.renderToDocument);\n","bodyAttrs":{}}
